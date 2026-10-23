@@ -1,1 +1,2 @@
-this is my intial file in question 2
+this is my initial file in question 2
+the second line
